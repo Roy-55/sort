@@ -1,0 +1,4 @@
+/home/a/AAAA/sort/build/CMakeFiles/rebuild_cache.dir
+/home/a/AAAA/sort/build/CMakeFiles/sort_lib.dir
+/home/a/AAAA/sort/build/CMakeFiles/edit_cache.dir
+/home/a/AAAA/sort/build/CMakeFiles/main.dir

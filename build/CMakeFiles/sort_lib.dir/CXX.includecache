@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/my_heap.h
+iostream
+-
+vector
+-
+algorithm
+-
+
+../include/sort.h
+iostream
+-
+vector
+-
+algorithm
+-
+cmath
+-
+my_heap.h
+../include/my_heap.h
+
+/home/a/AAAA/sort/src/sort.cpp
+sort.h
+/home/a/AAAA/sort/src/sort.h
+
